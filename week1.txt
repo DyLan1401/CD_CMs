@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is week 1
 thuoc branch
+=======
+this is week 1 mathoi
+>>>>>>> week1
